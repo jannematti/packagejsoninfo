@@ -1,0 +1,31 @@
+{
+  "name": "packagejsoninfo",
+  "version": "0.1.0",
+  "author": "Janne Rantamäki",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.22.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-dropzone": "^4.3.0",
+    "react-scripts": "2.0.3",
+    "react-tooltip": "^3.6.1",
+    "semver": "^5.5.0",
+    "styled-components": "^3.4.2",
+    "validator": "^10.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
